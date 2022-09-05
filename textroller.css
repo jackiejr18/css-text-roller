@@ -16,3 +16,16 @@ body {
 	align-items: center;
 	color: #e4bb68;
 }
+
+.string {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	animation: move 4s infinite;
+}
+
+.greeting {
+	position: relative;
+	top: 8.6vmin;
+	animation: white-out 5s infinite;
+}
