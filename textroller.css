@@ -73,4 +73,8 @@ body {
 	50% {
 		transform: translatey(-11vmin);
 	}
+
+	75% {
+		transform: translatey(-16.5vmin);
+	}
 }
