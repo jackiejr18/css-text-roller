@@ -69,4 +69,8 @@ body {
 		transform: translatey(-5.8vmin);
 		opac: 1;
 	}
+
+	50% {
+		transform: translatey(-11vmin);
+	}
 }
