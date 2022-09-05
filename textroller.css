@@ -36,7 +36,7 @@ body {
 	height: 25vmin;
 	width: 40vmin;
 	background: #282c34;
-	transform: translate(-40vmin,-24.5vmin);
+	transform: translate(-45vmin,-24.5vmin);
 }
 
 .closure::before {
@@ -45,7 +45,7 @@ body {
 	height: 25vmin;
 	width: 40vmin;
 	background: #282c34;
-	transfor: translate(-40vmin,5vmin);
+	transform: translate(-40vmin,5vmin);
 }
 
 .en {
